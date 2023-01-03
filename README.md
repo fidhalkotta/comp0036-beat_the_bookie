@@ -16,11 +16,13 @@
 
 ### Notebook to Run
 
-**GroupF_Notebook.ipynb** - Reproducible Jupyter notebook with all the code and in-line documentation.
+**GroupF_Notebook.ipynb** - Reproducible Jupyter notebook with all the code and in-line documentation. Exports the final predictions as a .zip file containing the .csv file.
 
 ### Final Prediction Result
 
 **GroupF_Submission.csv** - Final predictions made by final algorithm.
+
+**GroupF_Submission.zip** - Final predictions compressed. Exported by the notebook.
 
 ### Final Report
 
